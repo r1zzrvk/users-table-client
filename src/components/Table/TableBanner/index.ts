@@ -1,0 +1,1 @@
+export { TableBanner } from './TableBanner'

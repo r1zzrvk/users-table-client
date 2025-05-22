@@ -1,0 +1,8 @@
+export const INTERNAL_SERVER_ERROR = 'Internal server error'
+export const FAILED_TO_DELETE = 'Failed to delete user'
+export const USER_DELETED = 'User deleted successfully!'
+export const USERS_DELETED = 'Users deleted successfully!'
+export const FAILED_TO_UPDATE = 'Failed to update user'
+export const FAILED_TO_CREATE = 'Failed to create user'
+export const USER_CREATED = 'User created successfully!'
+export const USER_UPDATED = 'User updated successfully!'
